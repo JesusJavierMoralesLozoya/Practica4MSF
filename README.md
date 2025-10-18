@@ -1,8 +1,8 @@
-d[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JesusJavierMoralesLozoya/Practica4MSF)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JesusJavierMoralesLozoya/Practica4MSF)
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
+## Información de estudiante
 jesus Javier Morales Lozoya [20210806]; jesus.moralesl201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
