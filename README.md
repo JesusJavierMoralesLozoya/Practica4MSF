@@ -23,6 +23,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 ## Objetivos
 
 \1. Calcular la función de transferencia.
+
 \2. Determinar el modelo de ecuaciones integro-diferenciales.
 \3. Calcular el error en estado estacionario y la estabilidad en lazo abierto.
 \4. Emular y simular la respuesta del circuito en Simulink/Simscape a la señal "Uniform Random Number" con la siguiente configuración: min = -0.2 V; max = 1 V; seed = 106; Sample time = 0.5.
